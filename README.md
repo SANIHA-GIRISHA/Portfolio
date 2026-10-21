@@ -3,7 +3,7 @@
 > First-year engineering student 
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and journey into web development.
-
+https://saniha-girisha.netlify.app/
 ---
 
 ## ✨ About Me
