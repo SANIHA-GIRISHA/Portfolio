@@ -21,6 +21,7 @@ My goal is to create user-friendly websites while continuously improving my deve
 - **Python** — Scripting
 - **Responsive Design** — Mobile-friendly websites
 - **Git & GitHub** — Version control and project hosting
+  
 im still learning this things..
 ## 🚀 Projects
 
